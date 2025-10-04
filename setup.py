@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name="arithop",
-    version="1.0.0",
+    version="1.0.1",
     author="Your Name",
     author_email="you@example.com",
     description="A simple Python package to perform arithmetic operations on multiple numbers.",
