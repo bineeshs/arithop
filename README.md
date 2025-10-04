@@ -11,10 +11,10 @@ pip install arithoperations
 ## Usage
 
 ```python
-from arithoperations import arithop
+from arithoperations import operations 
 
-arithop.add(1, 2, 3)  # 6
-arithop.subtract(1, 2, 3)  # -4
-arithop.multiply(1, 2, 3)  # 6
-arithop.divide(1, 2, 3)  # 0.16666666666666666
+operations.add(1, 2, 3)  # 6
+operations.subtract(1, 2, 3)  # -4
+operations.multiply(1, 2, 3)  # 6
+operations.divide(1, 2, 3)  # 0.16666666666666666
 ```
